@@ -57,10 +57,9 @@
 <br/>
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rahmat-pw&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d93b7c&icon_color=F0DB4F" height="165"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmat-pw&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d93b7c&icon_color=F0DB4F" height="165"/>
+  <img alt="Github Stats" src="https://github-readme-stats.com/api?username=Rahmat-pw&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d93b7c&icon_color=F0DB4F" height="165"/>
+  <img alt="Top Languages" src="https://github-readme-stats.com/api/top-langs?username=Rahmat-pw&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d93b7c&icon_color=F0DB4F" height="165"/>
 </div>
 
 <p align="center">
